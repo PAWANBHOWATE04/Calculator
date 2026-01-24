@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CodeAlpha Calculator
 
 A simple, elegant web-based calculator built with HTML, CSS, and JavaScript. This project provides a user-friendly interface for performing basic arithmetic operations.
@@ -38,3 +39,6 @@ Feel free to fork the repository and submit pull requests for improvements or ad
 ## License
 
 This project is open-source and available under the MIT License.
+=======
+# Calculator
+>>>>>>> 3e787c26e1b016ce87c3ce4708db99281ab5e3fb
